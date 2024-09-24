@@ -23,7 +23,7 @@ export default function Footer() {
                     </div>
                     <div className="flex items-center justify-center md:pt-[23px]">
                         <button className="flex items-center justify-between py-2 px-2 bg-[white] font-bold font-spaceGrotesk text-[22px] leading-[36px] tracking-[-0.025em] text-[#012D9A] rounded-[100px]">
-                            <span className="mr-3 ml-4">Let's Talk</span>
+                            <span className="mr-3 ml-4">Let&apos;s Talk</span>
                             <button className="flex items-center justify-center w-[44px] h-[44px] rounded-full bg-[#FE0000]">
                                 <FaArrowRightLong size={20} className="text-white" />
                             </button>
