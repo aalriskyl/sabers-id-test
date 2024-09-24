@@ -1,10 +1,10 @@
 "use client";
-import { useRef, useEffect, useState } from 'react';
+import { useState } from 'react';
 import { IoIosArrowForward } from "react-icons/io";
 import Image from "next/image";
 import Combined from "../../public/img/grouped-vector-bg.png";
-import ArrowLogo from "../../public/img/arrow-logo.png";
-import ContactUs from "../../public/img/contact-us.png";
+// import ArrowLogo from "../../public/img/arrow-logo.png";
+// import ContactUs from "../../public/img/contact-us.png";
 import Rect from "../../public/img/rect-map.png";
 import Hook from "../../public/img/crane-hook.png";
 import Dummy1 from "../../public/img/dummy-1.png";
